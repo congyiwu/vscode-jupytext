@@ -48,7 +48,9 @@
         "commands": [
             {
                 "command": "jupyter.openAsPairedNotebook",
-                "title": "Open as a Jupyter Notebook"
+                "title": "Open as a Jupyter Notebook",
+                "category": "jupytext",
+                "icon": "$(notebook-edit)"
             }
         ],
         "menus": {
